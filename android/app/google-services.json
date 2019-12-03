@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30252699872",
+    "firebase_url": "https://gerenciamento-loja-virtu-72c8b.firebaseio.com",
+    "project_id": "gerenciamento-loja-virtu-72c8b",
+    "storage_bucket": "gerenciamento-loja-virtu-72c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30252699872:android:35889aeba9edd39315c085",
+        "android_client_info": {
+          "package_name": "com.example.gerenciamento_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30252699872-fq733abl3cu5774o61iv7r0acg9komhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLCI8eLAzTsHREq7cAGoS_ViG6yieqhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30252699872-fq733abl3cu5774o61iv7r0acg9komhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
